@@ -71,7 +71,7 @@ If you want to change directory you can either use the ```--dir ~/SaveFolder``` 
 When you first start a program it will not have any commands so you can simply add all of the commands you want to use in the begining or just ise the ```--edit``` command to change the commands. **You don't have to enter the target or output.** 
 
 ## Implimentation Map
-Amass doesn't currently support configuration **It needs to.**
-Needs more tools that to different things such as java parser, get file.extintion, and file editing.
-GUI interface for ReconPro in the paid viersion.
-GUI should have a modular tool implimentation.
+* Amass doesn't currently support configuration **It needs to.**
+* Needs more tools that to different things such as java parser, get file.extintion, and file editing.
+* GUI interface for ReconPro in the paid viersion.
+* GUI should have a modular tool implimentation.
