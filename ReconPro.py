@@ -8,7 +8,7 @@ def main():
     GraphicTitle()
     ProjectFolder()
 ########################################
-    parse = optparse.OptionParser("Usage: ReconPy [-u <Target>] [-p <Photon>] [-a <AMASS>]\nUsage: ReconPy [--dir <Project Name - Output Folder>] \nUsage: ReconPy [--edit  <Edit Commands>]")
+    parse = optparse.OptionParser("Usage: ReconPy [-u <Target>] [-p <Photon>] [-a <AMASS>] [-s <Sublist3r>] [-n <Nmap>] [-m <Masscan>] [-g <Gobuster>]\nUsage: ReconPy [--dir <Project Name - Output Folder>] \nUsage: ReconPy [--edit  <Edit Commands>]")
     parse.add_option('-u',     dest = 'Target',    type = 'string',       help = 'Target URL'                         )
     parse.add_option('--dir',  dest = 'Name',      type = 'string',       help = 'You need to put the location of the folder to save your output. \nExample: ~/Desktop/Recon/SaveFolder or ~/Documents/Recon/SaveFolder'       )
     parse.add_option('--edit', dest = 'Edit',      type = 'string',       help =  'p <Photon> a <Amass> s <Sublist3r>  n <Nmap> m <Masscan> g <Gobuster>'   )
