@@ -86,7 +86,7 @@ def ExicuteProg(Prog):
 def AllProgramEXE(Target):
    # InfoGather
     PHOTONexe     (Target  )
-    AMASSexe      (Target  )
+   # AMASSexe      (Target  )
    # Port Scanning
     NMAPexe       (Target  )
     MASSCANexe    (Target  )
