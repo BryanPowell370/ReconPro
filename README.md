@@ -43,7 +43,7 @@ python3 ReconPro.py
          \|___|                   \/____/                  \/____/                                           \/____/                                           \|___|                                   
                                                                                                                                                                                                         
 
-Usage: ReconPy [-u <Target>] [-p <Photon>] [-a <AMASS>]
+Usage: ReconPy [-u <Target>] [-p <Photon>] [-a <AMASS>] [-s <Sublist3r>] [-n <Nmap>] [-m <Masscan>] [-g <Gobuster>]
 Usage: ReconPy [--dir <Project Name - Output Folder>] 
 Usage: ReconPy [--edit  <Edit Commands>]
 
