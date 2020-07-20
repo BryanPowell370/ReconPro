@@ -75,5 +75,5 @@ When you first start a program it will not have any commands so you can simply a
 * Needs more tools that to different things such as java parser, get file.extintion, and file editing.
 * GUI interface for ReconPro in the paid viersion.
 * GUI should have a modular tool implimentation.
-##
-Donations https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=KSYCHAFWKZQXU&item_name=To+support+development+of+this+program.&currency_code=USD&source=url
+## [Donations](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=KSYCHAFWKZQXU&item_name=To+support+development+of+this+program.&currency_code=USD&source=url) - click to support
+Donations are appreciated to support future versions of our product.
