@@ -72,4 +72,4 @@ When you first start a program it will not have any commands so you can simply a
 Amass doesn't currently support configuration **It needs to.**
 Needs more tools that to different things such as java parser, get file.extintion, and file editing.
 GUI interface for ReconPro in the paid viersion.
-
+GUI should have a modular tool implimentation.
