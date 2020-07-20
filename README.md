@@ -2,7 +2,7 @@
 It's an optimization tool for running multiple pen-testing tools at once.
 
 ## Requirements
-Install accompanying programs [Photon](https://github.com/s0md3v/Photon), Amass, Sublist3r, Nmap, Masscan, and Gobuster.
+Install accompanying programs [Photon](https://github.com/s0md3v/Photon), [Amass](https://github.com/OWASP/Amass), [Sublist3r](https://github.com/aboul3la/Sublist3r), [Nmap](https://github.com/nmap/nmap), [Masscan](https://github.com/robertdavidgraham/masscan), and [Gobuster](https://github.com/OJ/gobuster).
 They can be found on GitHub.
 ```bash
 pip install os-sys
