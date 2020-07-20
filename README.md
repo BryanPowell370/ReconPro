@@ -2,6 +2,8 @@
 It's an optimization tool for running multiple pen-testing tools at once.
 
 ## Requirements
+Install accompanying programs Photon, Amass, Sublist3r, Nmap, Masscan, and Gobuster.
+They can be found on GitHub.
 ```bash
 pip install os-sys
 pip install optparse-pretty
