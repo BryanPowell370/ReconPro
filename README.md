@@ -67,3 +67,9 @@ Options:
 When you first start the program it will ask you to create a main directory folder such as ~/Desktop/Recon/Target or ~/Desktop/(Where Ever You Want Your Output). 
 If you want to change directory you can either use the ```--dir ~/SaveFolder``` to change this will also be where your outputs will be saved. 
 When you first start a program it will not have any commands so you can simply add all of the commands you want to use in the begining or just ise the ```--edit``` command to change the commands. **You don't have to enter the target or output.** 
+
+## Implimentation Map
+Amass doesn't currently support configuration **It needs to**
+Needs more tools that to different things such as java parser, get file.extintion, and file editing.
+GUI interface for ReconPro in the paid viersion.
+
