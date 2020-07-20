@@ -13,6 +13,12 @@ pip install termcolor
 git clone https://github.com/LaphingMan/ReconPro.git
 ```
 ## Usage
+```bash
+cd ReconPro
+python ReconPro.py 
+python3 ReconPro.py
+```
+
 ```python
           _____                    _____                    _____                   _______                   _____                    _____                    _____                   _______         
          /\    \                  /\    \                  /\    \                 /::\    \                 /\    \                  /\    \                  /\    \                 /::\    \        
